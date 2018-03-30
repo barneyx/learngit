@@ -12,4 +12,8 @@ My stupid boss still prefers SVN.
 
 dev content
 
+<<<<<<< HEAD
 Createing a new branch is quick & simple
+=======
+Createing a new branch quick AND simple.
+>>>>>>> reaturel
