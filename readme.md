@@ -6,4 +6,5 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 
 
-12123123
+12123123	
+My stupid boss still prefers SVN.
