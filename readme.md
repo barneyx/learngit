@@ -11,3 +11,5 @@ My stupid boss still prefers SVN.
 
 
 dev content
+
+Createing a new branch quick AND simple.
